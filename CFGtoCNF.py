@@ -1,4 +1,5 @@
-str =  input('Enter Rule')#A -> ABceDFS
+#CS 635 Programming Project - Abhinaya Dhandapani
+str =  input('Enter Rule: ')#A -> ABceDFS
 s = str.split( )
 var_list={}
 arr_list={}
