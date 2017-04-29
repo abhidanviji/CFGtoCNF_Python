@@ -1,4 +1,4 @@
-str =  input('enter rule')#A -> ABceDFS
+str =  input('Enter Rule')#A -> ABceDFS
 s = str.split( )
 var_list={}
 arr_list={}
